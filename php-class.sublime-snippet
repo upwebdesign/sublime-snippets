@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[<?php
+
+namespace App\\${1:Scope};
+
+class ${2:ClassName}
+{
+    /**$5
+    public function ${3:methodName}(${4:$arg})
+    {
+        ${6:# code...}
+    }
+}
+
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>php-class</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <!-- <scope>source.php</scope> -->
+    <!-- Optional: Description to show in the menu -->
+    <description>Generate a class block</description>
+</snippet>
