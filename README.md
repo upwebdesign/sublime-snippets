@@ -18,10 +18,14 @@ Package Control
 PackageRsourceViewer
 PHP Companion
 PyV8
+SASS (Syntax Highlighting)
 SideBarEnancements-st3
 SublimeLinter
 SublimeLinter-php
 SublimeLinter-phpcs
+SublimeLinter-csslint
+SublimeLinter-contrib-sass-lint
+SublimeLinter-contrib-scss-lint
 Theme - Soda
 Theme - Spacegray
 Vue Syntax Highlight
