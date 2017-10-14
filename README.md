@@ -26,6 +26,7 @@ SublimeLinter-phpcs
 SublimeLinter-csslint
 SublimeLinter-contrib-sass-lint
 SublimeLinter-contrib-scss-lint
+SublimeLinter-jshint
 Theme - Soda
 Theme - Spacegray
 Vue Syntax Highlight
