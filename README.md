@@ -6,7 +6,6 @@ Save to your ~/Library/Application Support/Sublime Text 3/Packages/User folder
 
 mysnippet.sublime-snippet
 
-ColorThemes
 DocBlockr
 Emmit
 Expand Tabs on Save
@@ -15,8 +14,9 @@ Laravel Blade Highlighter
 Laravel Blade Spacer
 Materialize
 Package Control
-PackageRsourceViewer
+PackageResourceViewer
 PHP Companion
+Pretty JSON
 PyV8
 SASS (Syntax Highlighting)
 SideBarEnancements-st3
@@ -27,6 +27,4 @@ SublimeLinter-csslint
 SublimeLinter-contrib-sass-lint
 SublimeLinter-contrib-scss-lint
 SublimeLinter-jshint
-Theme - Soda
-Theme - Spacegray
 Vue Syntax Highlight
