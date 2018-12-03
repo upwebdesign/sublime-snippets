@@ -21,6 +21,7 @@ mysnippet.sublime-snippet
 - SASS (Syntax Highlighting)
 - SideBarEnancements-st3
 - SublimeLinter
+- SublimeLinter-contrib-twiglint
 - SublimeLinter-phpcs (composer global require "squizlabs/php_codesniffer=*")
 - SublimeLinter-csslint (npm install -g csslint)
 - SublimeLinter-contrib-sass-lint (npm install -g sass-lint)
