@@ -7,7 +7,7 @@ Save to your ~/Library/Application Support/Sublime Text 3/Packages/User folder
 mysnippet.sublime-snippet
 
 - DocBlockr
-- Emmit
+- Emmet
 - Expand Tabs on Save
 - HTML-CSS-JS Prettify
 - Laravel Blade Highlighter
