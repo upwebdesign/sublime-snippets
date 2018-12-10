@@ -12,6 +12,7 @@ mysnippet.sublime-snippet
 - HTML-CSS-JS Prettify
 - Laravel Blade Highlighter
 - Laravel Blade Spacer
+- Laravel Blade Autocomplete
 - Materialize
 - Package Control
 - PackageResourceViewer
