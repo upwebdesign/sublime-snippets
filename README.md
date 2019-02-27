@@ -2,9 +2,9 @@ Sublime Snippets
 
 Tools -> New Snippet
 
-Save to your ~/Library/Application Support/Sublime Text 3/Packages/User folder
+Save to your `~/Library/Application Support/Sublime Text 3/Packages/User` folder
 
-mysnippet.sublime-snippet
+`mysnippet.sublime-snippet`
 
 - DocBlockr
 - Emmet
@@ -13,6 +13,7 @@ mysnippet.sublime-snippet
 - Laravel Blade Highlighter
 - Laravel Blade Spacer
 - Laravel Blade Autocomplete
+- MarkdownEditing
 - Materialize
 - Package Control
 - PackageResourceViewer
