@@ -39,5 +39,11 @@
     "show_panel_on_build": false,
     "theme": "Material Spacegray.sublime-theme",
     "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true
+    "trim_trailing_white_space_on_save": true,
+    "binary_file_patterns": [
+        "*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds",
+        "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip",
+        "node_modules/**",
+        "bower_components/**"
+    ]
 }
