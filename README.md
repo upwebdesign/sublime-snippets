@@ -6,6 +6,7 @@ Save to your `~/Library/Application Support/Sublime Text 3/Packages/User` folder
 
 `mysnippet.sublime-snippet`
 
+- CSS Extended Completions
 - DocBlockr
 - EditorConfig
 - Emmet
