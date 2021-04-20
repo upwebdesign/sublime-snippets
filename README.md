@@ -8,6 +8,7 @@ Save to your `~/Library/Application Support/Sublime Text 3/Packages/User` folder
 
 - CSS Extended Completions
 - DocBlockr
+- DotENV
 - EditorConfig
 - Emmet
 - Expand Tabs on Save
